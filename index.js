@@ -13,7 +13,7 @@ exports.processAMPValidator = function(imFile, exFile) {
 
     if (!exFile) {
         exFile = 'validator_' + imFile;
-        exFile = exFile.replace(".csv", ".xlsl");
+        exFile = exFile.replace(".csv", ".xlsx");
     }
 
     const inputStream = fs.createReadStream(imFile, 'utf8');
