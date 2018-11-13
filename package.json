@@ -1,6 +1,6 @@
 {
   "name": "amp-validator-webmaster",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "AMP Validator",
   "main": "index.js",
   "scripts": {
