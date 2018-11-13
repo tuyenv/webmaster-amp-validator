@@ -1,0 +1,30 @@
+{
+  "name": "amp-validator-webmaster",
+  "version": "1.0.0",
+  "description": "AMP Validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuyenv/webmaster-amp-validator.git"
+  },
+  "keywords": [
+    "AMP",
+    "Validator",
+    "Webmaster"
+  ],
+  "author": "Tuyen Vuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tuyenv/webmaster-amp-validator/issues"
+  },
+  "homepage": "https://github.com/tuyenv/webmaster-amp-validator#readme",
+  "dependencies": {
+    "amp-site-validator": "^2.0.1",
+    "csv-reader": "^1.0.3",
+    "node-excel-stream": "^1.0.1",
+    "valid-url": "^1.0.9"
+  }
+}
